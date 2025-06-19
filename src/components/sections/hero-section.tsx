@@ -8,13 +8,13 @@ const HeroSection = () => {
       <div className="container mx-auto grid max-w-7xl grid-cols-1 items-center gap-12 px-4 text-center md:grid-cols-2 md:text-left sm:px-6 lg:px-8">
         <div>
           <h1 className="font-headline text-4xl font-bold tracking-tight text-foreground sm:text-5xl md:text-6xl">
-            Your Name
+            Aayush Agarwal
           </h1>
           <p className="mt-3 font-headline text-2xl text-primary sm:text-3xl">
             Machine Learning Engineer
           </p>
           <p className="mt-6 max-w-xl text-lg text-muted-foreground md:mx-0">
-            Passionate about building intelligent systems that solve real-world problems. Specializing in NLP, computer vision, and scalable ML solutions.
+            Passionate about building intelligent systems that solve real-world problems. Specializing in NLP, AI Agents, and scalable ML solutions.
           </p>
           <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row md:justify-start">
             <Button asChild size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
