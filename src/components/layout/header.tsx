@@ -13,9 +13,6 @@ const Header = () => {
           <Link href="#projects" className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary">
             Projects
           </Link>
-          <Link href="#ai-assistant" className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary">
-            AI Assistant
-          </Link>
           <Link href="#contact" className="text-sm font-medium text-muted-foreground transition-colors hover:text-primary">
             Contact
           </Link>
